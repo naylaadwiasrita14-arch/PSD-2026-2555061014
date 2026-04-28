@@ -14,3 +14,5 @@ Bagian terakhir dari kode ini fungsinya untuk mengubah data yang sudah ada dan m
 <img width="512" height="479" alt="unnamed" src="https://github.com/user-attachments/assets/a17a4c17-8740-4967-8358-63c9848f3bf5" />
 <img width="480" height="512" alt="unnamed" src="https://github.com/user-attachments/assets/3206e1a2-9af9-4c7c-ad2c-c73eaa56824c" />
 Pada output di atas membuktikan bahwa program, sudah berjalan lancar. Output di atas menunjukkan urutan kerja yang rapi: pertama, program berhasil menambah menu "Pie", "Tart", dan "Pastry" dengan format huruf yang otomatis jadi rapi. Kedua, fungsi hapus bekerja dengan baik saat "Pie" dibuang dari daftar. Ketiga, fitur untuk mengubah"Tart" menjadi "Mochi" secara instan. Terakhir, setiap kali kita memilih menu tampilkan, program selalu menyajikan daftar terbaru yang urut dan jelas.
+
+https://youtu.be/Ge0piF1Xa-g?si=TfUudI1SQ0DGyq6t
