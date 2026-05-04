@@ -1,0 +1,2 @@
+MENGURUTKAN NILAI UJIAN MAHASISWA 
+Program ini dibuat untuk mengurutkan nilai ujian mahasiswa yang dimasukan oleh pengguna. Pengguna diminta untuk memasukkan jumlah mahasiswa dan nilai ujia masing masing, Kemudian program akan menampilkan daftar nilai sebelum dan seduh diurutkan oleh program. Dan hasil pengurutanya akan diurut dari nilai terbesar baru ke nilai yang kecil. Sehingga akan mudah untuk melihat peringkat mahasiswa 
