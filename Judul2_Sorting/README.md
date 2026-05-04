@@ -16,3 +16,5 @@ pada kode di atas, berfungsi untuk menampilkan hasil sebelum dan sesudah proses 
 <img width="757" height="255" alt="image" src="https://github.com/user-attachments/assets/125ec77e-1a22-4d82-9334-ffa2b8b960cc" />
 Output dari program tersebut, menunjukkan proses lengkap dari program saat dijalankan. Pertama, pengguna akan memasukkan jumlah mahasiswa yaitu, lalu program akan meminta pengguna untuk memasukan nilai satu per satu hingga terkumpul lima nilai, yaitu 40, 56, 78, 98, dan 88 Setelah semua nilai dimasukkan, program akan menampilkan daftar nilai awal dalam bentuk list: [40, 56, 78, 98, 88], yang artinya data masih di dalam urutan sesuai input (belum diurutkan).
 Selanjutnya, program akan menjalankan proses Bubble Sort untuk mengurutkan nilai. Karena pada kode digunakan kondisi `arr[j] < arr[j + 1]`, maka pengurutan dilakukan dari nilai terbesar ke terkecil (descending). Yang diamana hasil akhirnya akan menjadi`98 88 78 56 40`, yang berarti nilai tertinggi berada di depan dan nilai terendah di belakang.
+
+https://youtu.be/M0rK_t8jJLQ?si=GDulFtp85REWG6ul
