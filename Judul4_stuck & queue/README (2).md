@@ -92,6 +92,15 @@ Sedangkan kode `main()` berfungsi untuk memanggil fungsi utama yang berisi selur
 
 <img width="970" height="793" alt="image" src="https://github.com/user-attachments/assets/66a8e88b-dddb-47fb-9d5c-d4ea2471214a" />
 
-Pada output di awal, Pengunna akan diberi 5 pilihan, Yaitu ada tambah antrian, ambil makanan, lihat antrian di depan, tampilan, dan keluar. Lalu pengguna memilih no 1, Yang dimana pengguna harus memasukan angka yang ingin di masukan sampai yang di ingin kan. Lalu pengguna memilih menu 4 (Tampilkan) sehingga program menampilkan isi antrian MBG dari depan ke belakang, yaitu 2 2 4 3 5 7. Angka-angka tersebut merupakan data yang sudah dimasukkan sebelumnya ke dalam antrian. Setelah itu, pengguna memilih menu 2 (Ambil Makanan) sehingga program menjalankan proses dequeue, yaitu menghapus data paling depan dari antrian. Karena data terdepan adalah angka 2, maka program menampilkan pesan 2 berhasil mengambil makanan bergizi gratis yang menandakan bahwa data tersebut sudah keluar dari antrian.
+Pada output di awal, Pengunna akan diberi 5 pilihan, Yaitu ada tambah antrian, ambil makanan, lihat antrian di depan, tampilan, dan keluar. Lalu pengguna memilih no 1, Yang dimana pengguna harus memasukan angka yang ingin di masukan sampai yang di ingin kan. Lalu pengguna memilih menu 4 (Tampilkan) sehingga program menampilkan isi antrian MBG dari depan ke belakang, yaitu 2 2 4 3 5 7. Angka-angka tersebut merupakan data yang sudah dimasukkan sebelumnya ke dalam 
+
+antrian. Setelah itu, pengguna memilih menu 2 (Ambil Makanan) sehingga program menjalankan proses dequeue, yaitu menghapus data paling depan dari antrian. Karena data terdepan adalah angka 2, maka program menampilkan pesan 2 berhasil mengambil makanan bergizi gratis yang menandakan bahwa data tersebut sudah keluar dari antrian.
 
 Selanjutnya, pengguna memilih menu 3 (Lihat Antrian Depan) untuk melihat data yang sekarang berada di posisi paling depan. Program menampilkan Antrian depan: 2, yang berarti masih ada angka 2 lain di urutan depan antrian. Setelah itu, saat pengguna kembali memilih menu 4 (Tampilkan), program menampilkan isi antrian terbaru yaitu 2 4 3 5 7. Hal ini menunjukkan bahwa angka 2 yang pertama sudah berhasil dihapus dari antrian setelah proses pengambilan makanan dilakukan.
+
+
+
+
+
+
+https://youtu.be/D3Rs-dUT2lE?si=cpSmlDbhzS_eJxoJ
