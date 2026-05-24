@@ -198,3 +198,7 @@ Sementara itu, pada pilihan `6`, program dipakai untuk mencari **predecessor** a
 
 <img width="391" height="124" alt="image" src="https://github.com/user-attachments/assets/506f435f-7782-4b68-8937-68704810efa1" />
 
+
+Kode if __name__ == "__main__": digunakan untuk mengecek apakah file Python sedang dijalankan secara langsung atau tidak. Kondisi ini dibuat agar program utama hanya berjalan saat file tersebut dieksekusi sendiri, bukan ketika dipanggil dari file Python lain.
+
+Sedangkan kode main() berfungsi untuk memanggil fungsi utama yang berisi seluruh proses program. Dengan adanya pemanggilan fungsi ini, program dapat langsung menjalankan menu dan semua fitur antrian saat program dijalankan.
