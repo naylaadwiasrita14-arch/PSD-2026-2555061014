@@ -202,3 +202,23 @@ Sementara itu, pada pilihan `6`, program dipakai untuk mencari **predecessor** a
 Kode if __name__ == "__main__": digunakan untuk mengecek apakah file Python sedang dijalankan secara langsung atau tidak. Kondisi ini dibuat agar program utama hanya berjalan saat file tersebut dieksekusi sendiri, bukan ketika dipanggil dari file Python lain.
 
 Sedangkan kode main() berfungsi untuk memanggil fungsi utama yang berisi seluruh proses program. Dengan adanya pemanggilan fungsi ini, program dapat langsung menjalankan menu dan semua fitur antrian saat program dijalankan.
+
+
+
+
+**OUTPUT DARI SISTEM PENYIMPANAN DATA NO KONTAK**
+
+<img width="804" height="568" alt="image" src="https://github.com/user-attachments/assets/b20853dd-b28f-45f4-aea2-e4996e2f0718" />
+<img width="661" height="620" alt="image" src="https://github.com/user-attachments/assets/734a2cf8-e259-4402-9c88-ca514cec2482" />
+<img width="599" height="870" alt="image" src="https://github.com/user-attachments/assets/4bd4dc9d-c660-4e69-922d-f0e83e9f8090" />
+
+
+
+
+
+
+Output di atas memperlihatkan penggunaan program **Sistem Penyimpanan Data Nomor Kontak** yang menggunakan struktur BTS. Pada awalnya, pengguna memilih menu `4` untuk melihat tinggi tree, dan hasil yang ditampilkan adalah `9` yang menunjukkan jumlah level pada data kontak. Setelah itu, pada menu `3`, program menampilkan seluruh data kontak yang tersimpan secara terurut yaitu `10 20 30 40 50 60 70 80 90 100`.
+
+Kemudian, pengguna memilih menu `5` untuk mencari **successor** dari nomor `50`, dan hasil yang muncul adalah `60` sebagai nilai setelahnya. Selanjutnya pada menu `6`, pengguna mencari **predecessor** dari nomor `80`, sehingga program menampilkan `70` sebagai nilai sebelumnya. Ini menunjukkan bahwa fitur successor dan predecessor bekerja sesuai dengan konsep BST.
+
+Setelah itu, pada menu `2`, pengguna menghapus data `30` dan program berhasil menghilangkan angka tersebut dari tree. Ketika data ditampilkan kembali melalui menu `3`, terlihat bahwa `30` sudah tidak ada. Terakhir, pengguna memilih menu `7` untuk keluar, sehingga program berhenti dengan menampilkan pesan `"Program selesai."`.
