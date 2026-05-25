@@ -222,3 +222,7 @@ Output di atas memperlihatkan penggunaan program **Sistem Penyimpanan Data Nomor
 Kemudian, pengguna memilih menu `5` untuk mencari **successor** dari nomor `50`, dan hasil yang muncul adalah `60` sebagai nilai setelahnya. Selanjutnya pada menu `6`, pengguna mencari **predecessor** dari nomor `80`, sehingga program menampilkan `70` sebagai nilai sebelumnya. Ini menunjukkan bahwa fitur successor dan predecessor bekerja sesuai dengan konsep BST.
 
 Setelah itu, pada menu `2`, pengguna menghapus data `30` dan program berhasil menghilangkan angka tersebut dari tree. Ketika data ditampilkan kembali melalui menu `3`, terlihat bahwa `30` sudah tidak ada. Terakhir, pengguna memilih menu `7` untuk keluar, sehingga program berhenti dengan menampilkan pesan `"Program selesai."`.
+
+
+
+https://youtu.be/RKBCeEDPlkM?si=t4K7L4MkFBpg1BNs
