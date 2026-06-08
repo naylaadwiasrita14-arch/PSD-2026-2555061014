@@ -319,3 +319,18 @@ Pada output pertama, program menampilkan seluruh data buku yang telah disimpan k
 
 Setelah itu, program melakukan pencarian data dengan kode buku 111 dan berhasil menemukan buku dengan judul "Struktur Data". Selanjutnya, data dengan kode buku 111 dihapus dari HashMap. Hal ini terlihat pada output kedua, di mana data (111, Struktur Data) sudah tidak ada lagi pada indeks 1, sementara data lainnya tetap tersimpan. Hal ini menunjukkan bahwa proses pencarian dan penghapusan data berhasil dilakukan dengan baik tanpa memengaruhi data yang lain.
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+https://youtu.be/-zbOz-ALhgg?si=naWbqKVr83DrU6Om
